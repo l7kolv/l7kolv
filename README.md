@@ -19,8 +19,8 @@
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
- 
-   
+      <p><strong>FrontEnd</strong></p>
+       <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
 </div><br>
 </div>
 </div>
