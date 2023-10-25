@@ -15,9 +15,7 @@
         <img src="https://img.shields.io/badge/blogger-0ABF53?style=for-the-badge&logo=bloglovin&logoColor=white"> 
     </a>
   
-    <a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
+
 
 </div>
 </div>
