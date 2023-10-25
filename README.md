@@ -18,7 +18,6 @@
     </a>
 
  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://blog.naver.com/lee_sy0804/)
 
 </div>
 </div>
