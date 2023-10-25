@@ -15,5 +15,8 @@
         <img src="https://img.shields.io/badge/blogger-0ABF53?style=for-the-badge&logo=bloglovin&logoColor=white"> 
     </a>
 
+    <a href="https://instagram.com/l7kolv_?igshid=OGQ5ZDc2ODk2ZA==">
+        <img src="https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
+    </a>
 </div>
 </div>
