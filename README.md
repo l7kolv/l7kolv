@@ -3,7 +3,7 @@
 <div align="center">
 
 
-## 💻 DEV's log 💻
+## 💻 daily record 💻
 <br>
 
 
