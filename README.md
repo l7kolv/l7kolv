@@ -12,7 +12,7 @@
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
    <a href="https://blog.naver.com/lee_sy0804">
-        <img src="https://img.shields.io/badge/blogger-0ABF53?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+        <img src="https://img.shields.io/badge/blogger-0ABF53?style=for-the-badge&logo=bloglovin&logoColor=white"> 
     </a>
 
 </div>
