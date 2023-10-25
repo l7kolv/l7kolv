@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=&animation=twinkling&height=100)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=autorandom=true&width=435&size=32&lines=WELCOME+TO+KOLV+GITHUB!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=#37D479FF&random=true&width=435&size=32&lines=WELCOME+TO+KOLV+GITHUB!)](https://git.io/typing-svg)
  
 <div align="center">
 
