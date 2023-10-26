@@ -24,9 +24,9 @@
       <p><strong>FRONT-END</strong></p>
       <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
- <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=black"> 
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+ <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=black"> 
 <br><br>
     <p><strong>SERVER</strong></p>
      <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
