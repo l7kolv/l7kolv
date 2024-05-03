@@ -49,11 +49,7 @@
  </div>
  </div>
  
- ## 🔎 My Gihub Stats 🔍
- <div style = "display:flex;">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l7kolv&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l7kolv&layout=compact&height=250)
+
  </div>
 
 
